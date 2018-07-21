@@ -24,3 +24,6 @@ pip install requirements.txt
 ```
 
 5. input you eos private key and run `python run.py`
+
+## wechat
+![](http://ww1.sinaimg.cn/large/cfc08357ly1fthi6opytjj20kw0r2n1r.jpg)
