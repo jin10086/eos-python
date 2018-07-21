@@ -1,6 +1,6 @@
-## 如何运行
+## How to run
 
-1. 安装nodejs
+1. install nodejs
 
 ```
 apt-get update
@@ -9,16 +9,18 @@ curl -sL https://deb.nodesource.com/setup_10.x | bash
 apt-get -y install nodejs
 ```
 
-2. 安装 eosjs 与 eosjs-ecc
+2. install eosjs and eosjs-ecc
 
 ```
 npm install --save eosjs
 npm install --save eosjs-ecc
 ```
 
-3. 安装python依赖
+3. `git clone https://github.com/jin10086/eos-python.git && cd eos-python`
+
+4. install python package
 ```
 pip install requirements.txt
 ```
 
-4. 运行 `python run.py` 就可以了
+5. input you eos private key and run `python run.py`
